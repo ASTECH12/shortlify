@@ -34,3 +34,4 @@ To run Shorlify locally, follow these steps:
     yarn start
     ```
 
+# url-shortner
