@@ -19,7 +19,7 @@ To run Shorlify locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ASTECH12/url-shortner.git
+   git clone https://github.com/ASTECH12/shortlify.git
    ```
 2. Start the project:
     ```bash
